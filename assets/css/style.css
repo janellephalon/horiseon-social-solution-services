@@ -61,7 +61,6 @@ p {
     background-position: center;
 }
 
-/* Contents of Page */ 
 .content {
     width: 75%;
     display: inline-block;
@@ -105,16 +104,12 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
+/* Main Contents of Page */ 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management img {
+.search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -123,7 +118,7 @@ p {
     font-size: 36px;
 }
 
-.social-media-marketing img {
+.online-reputation-management img {
     max-height: 200px;
 }
 
@@ -132,6 +127,11 @@ p {
     font-size: 36px;
 }
 
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* Side Bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -191,6 +191,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer */ 
 .footer {
     padding: 30px;
     clear: both;
