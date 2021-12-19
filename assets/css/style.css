@@ -51,7 +51,7 @@ p {
     font-size: 16px;
 }
 
-/* Hero */ 
+/* Hero & Nav Element */ 
 .hero {
     height: 800px;
     width: 100%;
@@ -104,7 +104,7 @@ p {
     color: #ffffff;
 }
 
-/* Main Contents of Page */ 
+/* Section Element */ 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -131,7 +131,7 @@ p {
     max-height: 200px;
 }
 
-/* Side Bar */
+/* Aside Element */
 .benefits {
     margin-right: 20px;
     padding: 20px;
